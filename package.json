@@ -1,0 +1,13 @@
+{
+  "name": "site-headbikes",
+  "version": "1.0.0",
+  "description": "Conversor de Estilos Pesonalizados",
+  "scripts": {
+    "start": "\"gulp watch\" browser-sync"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.17.5",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2"
+  }
+}
